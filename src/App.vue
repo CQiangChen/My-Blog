@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <blog-header class="top"></blog-header>
+    <div class="interval"></div>
     <router-view></router-view>
   </div>
 </template>
@@ -25,5 +26,9 @@ export default {
   .top{
     position: fixed;
     z-index: 9999;
+  }
+  .interval{
+    width: 100%;
+    height: 70px;
   }
 </style>

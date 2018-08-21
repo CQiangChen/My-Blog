@@ -25,7 +25,6 @@
     z-index: 1;
   }
   img{
-    margin-top: 70px;
     width: 100%;
   }
   .curtain {

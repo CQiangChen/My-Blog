@@ -1,9 +1,9 @@
 <template>
   <div id="blog-img">
-    <img src="../../../images/top.jpg" alt="">
+    <img src="https://chen-img.oss-cn-beijing.aliyuncs.com/top.bc2e6f0.jpg" alt="">
     <div class="curtain"></div>
     <div class="avatar">
-        <img src="../../../images/avatar.jpg" alt="">
+        <img src="https://chen-img.oss-cn-beijing.aliyuncs.com/avatar.b4a2cf4.jpg" alt="">
     </div>
   </div>
 </template>
